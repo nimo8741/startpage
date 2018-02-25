@@ -53,12 +53,6 @@ var favorites = [
       ["twitter" , "https://twitter.com/", "twi"]
     ]
   ],
-  [ "Download",
-    [
-      ["thepiratebay", "http://thepiratebay.se", "tpb"],
-      ["T411", "http://www.t411.in/", "t411"]
-    ]
-  ],
   [ "Reddit",
     [
       ["Frontpage", "https://www.reddit.com/", "fp"],
