@@ -45,39 +45,41 @@ var favorites = [
       ["protonmail" , "https://mail.protonmail.com/login", "pm"],
       ["gmail" , "https://mail.google.com/mail/u/0/#inbox", "gm"],
       ["gmx mail" , "https://www.gmx.com/", "gmx"],
-      ["purdue" , "https://outlook.office365.com/owa/?realm=purdue.edu&exsvurl=1&ll-cc=1033&modurl=0", "p"]
+      ["outlook" , "https://login.microsoftonline.com/", "ol"]
     ]
   ],
-  [ "Social",
+  [ "Finance",
     [
-      ["whatsapp" , "https://web.whatsapp.com/", "wa"],
-      ["hangouts" , "http://hangouts.google.com", "hang"],
-      ["facebook" , "https://www.facebook.com/" , "fb"],
-      ["twitter" , "https://twitter.com/", "twi"]
+      ["chase" , "https://secure01c.chase.com/web/auth/dashboard", "ch"],
+      ["discover" , "https://www.discover.com/", "dc"],
+      ["etrade" , "https://us.etrade.com/home/welcome-back", "et"],
+      ["sallie mae" , "https://banking.salliemae.com/login.do?_flowExecutionKey=_c769DB362-61BB-2058-2648-B9414ED1D1D4_k24C39230-559C-797B-79B6-EA01EE67F73C" , "sm"],
+      ["nelnet" , "https://www.nelnet.com/welcome", "nn"]
+    ]
+  ],
+  [ "Shopping",
+    [
+      ["amazon" , "https://www.amazon.com/", "am"],
+      ["ebay" , "https://www.ebay.com/", "eb"],
+      ["newegg" , "https://www.newegg.com/", "ne"],
+      ["costco" , "https://www.costco.com/", "cc"],
     ]
   ],
   [ "Reddit",
     [
-      ["Frontpage", "https://www.reddit.com/", "fp"],
-      ["LoL", "https://www.reddit.com/r/leagueoflegends/", "lol"],
-      ["4chan", "https://www.reddit.com/r/4chan/", "4ch"],
-      ["Monster Hunter", "https://www.reddit.com/r/MonsterHunter/", "mh"],
-      ["Programmer Humor", "https://www.reddit.com/r/ProgrammerHumor/", "ph"]
+      ["DIY", "https://www.reddit.com/r/DIY/", "diy"],
+      ["vinyl", "https://www.reddit.com/r/vinyl/", "vi"],
     ]
   ],
   [ "4chan",
     [
-      ["/b/", "http://4chan.org/b/", "b"],
+      ["/g/", "http://4chan.org/g/", "g"],
       ["/wg/", "http://4chan.org/wg/", "wg"],
-      ["/g/", "http://4chan.org/g/", "g"]
+      ["/w/", "http://4chan.org/w/", "w"],
+      ["/a/", "http://4chan.org/a/", "a"]
     ]
   ],
-  [ "Others",
-    [
-      ["hugelol", "http://hugelol.com", "hgl"],
-      ["hiddenlol", "http://hiddenlol.com", "hdl"]
-    ]
-  ]
+ 
 ];
 var feeds = [
   ["Defense News","http://feeds.feedburner.com/defense-news/home"],
