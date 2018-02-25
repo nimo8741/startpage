@@ -5,7 +5,7 @@ var username = "John"
 var clientid = "be212a58528168962a39c64052c1d88e";
 var redirecturi = "http://localhost:8002/callback.html";
 var locations = [
-  "784201",
+  "2361037",
   "784302"
 ];
 var images = [
