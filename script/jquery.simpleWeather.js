@@ -3,10 +3,10 @@
   "use strict";
 
   function getAltTemp(unit, temp) {
-    if(unit === 'f') {
-      return Math.round((5.0/9.0)*(temp-32.0));
-    } else {
+    if(unit === 'c') {
       return Math.round((9.0/5.0)*temp+32.0);
+    } else {
+      return Math.round((5.0/9.0)*(temp-32.0));
     }
   }
 
