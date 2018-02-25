@@ -39,12 +39,13 @@ var searchs = [
   ["!d", "https://duckduckgo.com/?q="]
 ];
 var favorites = [
-  [ "Work",
+  [ "Email",
     [
-      ["cpnv" , "http://intranet.cpnv.ch/", "cpnv"],
-      ["github" , "https://github.com/", "gh"],
+      ["yahoo" , "https://mg.mail.yahoo.com/", "yh"],
+      ["protonmail" , "https://mail.protonmail.com/login", "pm"],
       ["gmail" , "https://mail.google.com/mail/u/0/#inbox", "gm"],
-      ["bitbucket" , "http://bitbucket.org", "bb"]
+      ["gmx mail" , "https://www.gmx.com/", "gmx"],
+      ["purdue" , "https://outlook.office365.com/owa/?realm=purdue.edu&exsvurl=1&ll-cc=1033&modurl=0", "p"]
     ]
   ],
   [ "Social",
