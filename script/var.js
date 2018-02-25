@@ -12,7 +12,6 @@ var locations = [
 var images = [
   "sp1.jpg",
   "sp2.jpg",
-  "sp3.png",
   "sp4.jpg",
   "sp5.jpg",
   "sp6.jpg",
