@@ -81,7 +81,13 @@ var favorites = [
       ["/a/", "http://4chan.org/a/", "a"]
     ]
   ],
- 
+  [ "Other",
+    [
+      ["github", "https://github.com/mratomicbomb", "gh"],
+      ["facebook", "https://www.facebook.com/", "fb"],
+      ["library genesis", "http://gen.lib.rus.ec/", "lg"]
+    ]
+  ],
 ];
 var feeds = [
   ["Defense News","http://feeds.feedburner.com/defense-news/home"],
