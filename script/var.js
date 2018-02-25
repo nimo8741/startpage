@@ -67,8 +67,10 @@ var favorites = [
   ],
   [ "Reddit",
     [
-      ["DIY", "https://www.reddit.com/r/DIY/", "diy"],
+      ["diy", "https://www.reddit.com/r/DIY/", "diy"],
       ["vinyl", "https://www.reddit.com/r/vinyl/", "vi"],
+      ["pc mods", "https://www.reddit.com/r/pcmods/", "pcm"],
+      ["cozy places", "https://www.reddit.com/r/CozyPlaces/", "cz"]
     ]
   ],
   [ "4chan",
