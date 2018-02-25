@@ -3,7 +3,7 @@ body{width:100%;*zoom:1}body:before,body:after{content:"";display:table}body:aft
 div.flame
 {
 	position: absolute;
-    top: 100%;
+    top: 70%;
     left: 50%;
     margin-top: -150px;
   	margin-left: -100px;
