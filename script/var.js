@@ -1,7 +1,7 @@
 // All the variable for the app
 // Their name are explicit
 
-var username = "John"
+var username = "Nick"
 var clientid = "be212a58528168962a39c64052c1d88e";
 var redirecturi = "http://localhost:8002/callback.html";
 var locations = [
@@ -53,7 +53,7 @@ var favorites = [
       ["chase" , "https://secure01c.chase.com/web/auth/dashboard", "ch"],
       ["discover" , "https://www.discover.com/", "dc"],
       ["etrade" , "https://us.etrade.com/home/welcome-back", "et"],
-      ["sallie mae" , "https://banking.salliemae.com/login.do?_flowExecutionKey=_c769DB362-61BB-2058-2648-B9414ED1D1D4_k24C39230-559C-797B-79B6-EA01EE67F73C" , "sm"],
+      ["FirstBank" , "https://www.efirstbank.com/?source=gbank&gclid=CKfE-YzB6LsCFS1gMgodOXkAIQ" , "fbnk"],
       ["nelnet" , "https://www.nelnet.com/welcome", "nn"]
     ]
   ],
@@ -83,7 +83,7 @@ var favorites = [
   ],
   [ "Other",
     [
-      ["github", "https://github.com/mratomicbomb", "gh"],
+      ["github", "https://github.com/nimo8741", "gh"],
       ["facebook", "https://www.facebook.com/", "fb"],
       ["library genesis", "http://gen.lib.rus.ec/", "lg"]
     ]
